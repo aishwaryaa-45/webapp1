@@ -1,3 +1,4 @@
 Flask
 azure-storage-blob
 werkzeug
+python-dotenv
